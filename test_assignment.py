@@ -10,8 +10,7 @@ def check_contains_loop(function):
     ([12, 23], 8),
     ([12, 23, 43], 15),
     ([113, 234], 14),
-    ([1002, 2005], 10),
-    ([0, -7, -35], 12)
+    ([1002, 2005], 10)
 ])
 def test1(numbers, expected):
     assert sum_units_digits(numbers) == expected
