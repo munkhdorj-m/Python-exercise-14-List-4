@@ -54,7 +54,7 @@ Find the largest negative and smallest positive numbers (or 0 if none).
 
 **Problem:**
 
-Write a Python program to find numbers that are greater than 10 and have odd first and last digits.
+Find numbers that are greater than 10 and have odd first and last digits.
 
 **Example**
 
