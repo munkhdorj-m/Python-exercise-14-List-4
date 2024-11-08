@@ -13,7 +13,7 @@ def check_contains_loop(function):
     ([1002, 2005], 10)
 ])
 def test1(numbers, expected):
-    assert sum_units_digits(numbers) == expected
+    assert sum_of_digits(numbers) == expected
     assert check_contains_loop(sum_units_digits)
 
 @pytest.mark.parametrize("numbers, expected", [
