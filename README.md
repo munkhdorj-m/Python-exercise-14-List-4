@@ -1,4 +1,4 @@
-# Python List 3
+# Python List 4
 
 Python List PDF:
 https://drive.google.com/file/d/1lKmQwkQc8rGIuH9OIQB-yM6lFg-lW9Ch/view?usp=sharing
@@ -10,21 +10,21 @@ https://drive.google.com/file/d/1lKmQwkQc8rGIuH9OIQB-yM6lFg-lW9Ch/view?usp=shari
 
 **Problem:**
 
-**Palindrome Check**
-
-Write a function that checks if a list is a palindrome (reads the same forwards and backwards).
+Find the sum of the units digits in the numbers in a given list.
 
 **Example:**
 
-	Input: [1, 2, 3, 2, 1]
-	Output: True
+	Input: [12, 23]
+	Output: 8
  
-	Input: [1, 2, 3, 4, 5]
-	Output: False
+	Input: [12, 23, 43]
+	Output: 15
  
-	Input: [7, 8, 8, 7]
-	Output: True
-
+	Input: [113, 234]
+	Output: 14
+ 
+	Input: [1002, 2005]
+	Output: 10
 
 ---
 
@@ -32,28 +32,37 @@ Write a function that checks if a list is a palindrome (reads the same forwards 
 
 **Problem:**
 
-**Ascending list**
-
-Determine whether the sequence of items is strictly ascending so that each element is strictly larger (not just merely equal to) than the element that precedes it. 
-Return True if the elements in the list of items are strictly ascending, and return False otherwise.
+Find the largest negative and smallest positive numbers (or 0 if none).
 
 **Example**
 
-   	Input: [-5, 10, 99, 123456] 
-	Output: True
-
-	Input: [1, 1, 2, 3, 4]
-	Output: False
-
-	Input: [-99] 
-	Output: True
+	Input: [-12, -6, 300, -40, 2, 2, 3, 57, -50, -22, 12, 40, 9, 11, 18]
+	Output: [-6, 2]
  
-	Input: [4, 5, 6, 7, 3, 7, 9] 
-	Output: False
+	Input: [-1, -2, -3, -4]
+	Output: [-1, 0]
+ 
+	Input: [1, 2, 3, 4]
+	Output: [0, 1]
+ 
+	Input: []
+	Output: [0, 0]	
 
-	Input: [2, 3, 3, 4, 5] 
-	Output: False
- 	
+---
+
+## Exercise 3
+
+**Problem:**
+
+Write a Python program to find numbers that are greater than 10 and have odd first and last digits.
+
+**Example**
+
+	Input: [1, 3, 79, 10, 4, 1, 39, 62]
+	Output: [79, 39]
+ 
+	Input: [11, 31, 77, 93, 48, 1, 57]
+	Output: [11, 31, 77, 93, 57]
 
 ---
 
