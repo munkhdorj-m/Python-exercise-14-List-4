@@ -14,7 +14,7 @@ def check_contains_loop(function):
 ])
 def test1(numbers, expected):
     assert sum_of_digits(numbers) == expected
-    assert check_contains_loop(sum_units_digits)
+    assert check_contains_loop(sum_of_digits)
 
 @pytest.mark.parametrize("numbers, expected", [
     ([-12, -6, 300, -40, 2, 2, 3, 57, -50, -22, 12, 40, 9, 11, 18], [-6, 2]),
