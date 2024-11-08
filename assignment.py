@@ -1,7 +1,7 @@
 # You can remove 'pass' if you written code in the function 
 
 # Exercise 1
-def sum_units_digits(numbers):
+def sum_of_digits(numbers):
     # Write your code here
     pass
 
