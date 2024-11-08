@@ -1,6 +1,6 @@
 import pytest
 import inspect
-from assignment import sum_units_digits, largest_negative_and_smallest_positive, odd_first_last_digits
+from assignment import sum_of_digits, largest_negative_and_smallest_positive, odd_first_last_digits
 
 def check_contains_loop(function):
     source = inspect.getsource(function)
