@@ -1,12 +1,16 @@
 # You can remove 'pass' if you written code in the function 
 
 # Exercise 1
-def is_palindrome(lst):
+def sum_units_digits(numbers):
     # Write your code here
     pass
 
 # Exercise 2
-def is_strictly_ascending(lst):
+def largest_negative_and_smallest_positive(numbers):
     # Write your code here
     pass
 
+# Exercise 3
+def odd_first_last_digits(numbers):
+    # Write your code here
+    pass
