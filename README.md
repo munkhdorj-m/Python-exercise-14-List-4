@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1lKmQwkQc8rGIuH9OIQB-yM6lFg-lW9Ch/view?usp=shari
 
 **Problem:**
 
-Find the sum of the units digits in the numbers in a given list.
+Find the sum of the digits in the numbers in a given list.
 
 **Example:**
 
