@@ -61,8 +61,8 @@ Find numbers that are greater than 10 and have odd first and last digits.
 	Input: [1, 3, 79, 10, 4, 1, 39, 62]
 	Output: [79, 39]
  
-	Input: [11, 31, 77, 93, 48, 1, 57]
-	Output: [11, 31, 77, 93, 57]
+	Input: [11, 3451, 707, 93, 48, 1, 57]
+	Output: [11, 3451, 707, 93, 57]
 
 	Input: [19, 23, 1001, 502, 121]
 	Output: [19, 1001, 121]
